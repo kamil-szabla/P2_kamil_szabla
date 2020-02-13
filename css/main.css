@@ -6,7 +6,7 @@ body {
     color: black;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 1em;
-    grid-template: 0.4fr 0.6fr 1fr 0.4fr / 1fr 2fr;
+    grid-template: 0.2fr 0.6fr 1fr 0.2fr / 1fr 2fr;
     text-align: justify;
     letter-spacing: 2px;
 }
@@ -201,5 +201,16 @@ hr {
     }
     .info {
         text-align: center;
+        font-size: 0.8em;
     }
+    .info2 {
+        font-size: 0.8em;
+    }
+    h4 {
+        font-size: 0.8em;
+    }
+}
+li{
+    font-size: 0.8em;
+    line-height: 1.4em;
 }
