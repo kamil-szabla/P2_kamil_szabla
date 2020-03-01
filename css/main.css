@@ -137,8 +137,8 @@ h4 {
 }
 
 .heading > h1 {
-    font-size: 1em;
-    color: black;
+    font-size: 1.1em;
+    color: #424242;
     height: 40px;
 }
 .date {
@@ -148,10 +148,11 @@ h4 {
     padding-top: 16px;
 }
 .work-place > header {
-    font-size: 0.8em;
+    font-size: 1em;
+    font-weight: 500;
 }
 h4 {
-    font-size: 0.8em;
+    font-size: 0.6  em;
 }
 .work-place > p {
     font-size: 0.6em;
@@ -171,6 +172,9 @@ hr {
 .referrer > p {
     font-size: 1em;
     line-height: auto;
+}
+ul {
+    padding-left: 25px;
 }
 
 @media all and (max-width: 800px) {
